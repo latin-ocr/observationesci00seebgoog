@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesci00seebgoog_0012.png"; bbox 0 0 3720 5708; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1103 1106 1107 1113">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1103 1106 1107 1113">
+     <span class='ocr_line' id='line_1_1' title="bbox 1103 1106 1107 1113; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1103 1106 1107 1113; x_wconf 78' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 623 1223 1311 1343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 623 1223 1311 1343">
+     <span class='ocr_line' id='line_1_2' title="bbox 623 1223 1311 1343; baseline -0.006 -1"><span class='ocrx_word' id='word_1_2' title='bbox 623 1223 1311 1343; x_wconf 87' lang='lat' dir='ltr'><strong>OBSERVATIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 1789 1828 1883">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 1789 1828 1883">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 1789 1828 1883; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 253 1794 574 1883; x_wconf 85' lang='lat' dir='ltr'>CORPORUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 603 1793 798 1880; x_wconf 86' lang='lat' dir='ltr'>LUCEM</span> <span class='ocrx_word' id='word_1_5' title='bbox 827 1792 1184 1881; x_wconf 83' lang='lat' dir='ltr'><strong>SIMPLICITER</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1212 1793 1681 1882; x_wconf 79' lang='lat' dir='ltr'><strong>REFRINGENTIUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1825 1789 1828 1795; x_wconf 73' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 119 2077 1546 2248">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 119 2077 1546 2248">
+     <span class='ocr_line' id='line_1_4' title="bbox 119 2077 1546 2248; baseline 0.006 -53"><span class='ocrx_word' id='word_1_8' title='bbox 119 2132 145 2195; x_wconf 89' lang='lat'><strong>.·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 277 2217 280 2222; x_wconf 38' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 381 2080 757 2248; x_wconf 84' lang='lat' dir='ltr'><strong>ANGULIS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 802 2077 1546 2208; x_wconf 82' lang='lat' dir='ltr'><strong>POLARISATIONIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 836 2556 1096 2599">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 836 2556 1096 2599">
+     <span class='ocr_line' id='line_1_5' title="bbox 836 2556 1096 2599; baseline 0 -7"><span class='ocrx_word' id='word_1_12' title='bbox 836 2556 1096 2599; x_wconf 50' lang='lat' dir='ltr'><strong>«uwx&#39;wss&#39;mmw</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1864 5708">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1864 5708">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1864 5708; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1864 5708; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
